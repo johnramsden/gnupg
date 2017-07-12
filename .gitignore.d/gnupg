@@ -1,0 +1,6 @@
+*
+!/.gitignore.d
+!/.gitignore.d/gnupg
+!/.gnupg
+!/.gnupg/gpg-agent.conf
+!/.gnupg/gpg.conf

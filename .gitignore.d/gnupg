@@ -1,6 +1,11 @@
 *
-!/.gitignore.d
 !/.gitignore.d/gnupg
-!/.gnupg
+!/.gnupg/archive/atom-july-18-2017.tar.gpg
+!/.gnupg/archive/atom-july-18-2017.tar.sha256sum
+!/.gnupg/archive/july-14-2017.tar.gpg
+!/.gnupg/archive/july-14-2017.tar.sha256sum
+!/.gnupg/archive/README.md
+!/.gnupg/archive/switchblade-july-14-2017.tar.gpg
+!/.gnupg/archive/switchblade-july-14-2017.tar.sha256sum
 !/.gnupg/gpg-agent.conf
 !/.gnupg/gpg.conf
